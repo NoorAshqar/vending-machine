@@ -1,0 +1,14 @@
+.money-coins img{
+ width: 5vw;
+ height: 10vh;
+}
+.money-coins img:hover{
+    cursor: pointer;
+   }
+.money-dollars img{
+    width: 15vw;
+    height: 10vh;
+   }
+.money-dollars img:hover{
+       cursor: pointer;
+      }

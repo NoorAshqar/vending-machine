@@ -1,0 +1,19 @@
+
+.log{
+    background-color: black;
+    color:red;
+    text-align: center;
+    border: 2px soild crimson;
+}
+.snack-container{
+    background-color: cadetblue;
+    border: 5px solid black;
+    width: fit-content;
+    display: grid;
+    grid-template-columns: 110px 110px 110px 110px 110px;
+    padding: 10px;
+}
+.snack-img{
+ width: 5vw;
+ height: 10vh;   
+}

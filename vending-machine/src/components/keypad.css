@@ -1,0 +1,15 @@
+.thepad{
+    background-color: black;
+    float: right;
+}
+.head-k{
+    color:white;
+    text-align: center;
+    background-color: crimson;
+}
+.thepad button{
+    background-color: aqua;
+    color:black;
+    font-size: large;
+    width: 3vw;
+}
